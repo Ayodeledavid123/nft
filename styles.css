@@ -76,5 +76,6 @@ a:hover{
     .nft-container {
         margin: 50px auto;
         max-width: 600px;
+        padding-top: 30px;
     }
 }
