@@ -2,8 +2,7 @@ body{
     background-color: hsl(217, 54%, 11%);
     display: flex;
     justify-content: center;
-    padding-top: 30px;
-
+align-items: center;
 }
 .nft-container{
     background-color: hsl(216, 50%, 16%);
