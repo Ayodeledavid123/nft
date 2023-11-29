@@ -72,16 +72,16 @@ a:hover{
 .nft-container h2:hover{
     color: hsl(178, 100%, 50%);
 }
-@media screen and (min-width: 675px) {
+@media screen and (max-width: 675px) {
     .nft-container {
         margin: 50px auto;
         max-width: 600px;
+        margin-top: 50px;
+        pa
     }
     body{
         padding-top: 30px;
-        display: flex;
-        justify-content: center;
-        align-items: center;
-        margin-top: 50px;
+        height: 1000px;
+    
     }
 }
